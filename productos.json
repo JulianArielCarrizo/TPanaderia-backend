@@ -1,0 +1,112 @@
+
+[
+    {
+    
+    "nombre_producto": "Pan Francés x kg",
+    "descripcion_corta": "Crujiente y suave pan francés.",
+    "descripcion_larga": "Delicioso pan francés, con una corteza crujiente y un interior suave, perfecto para acompañar tus comidas.",
+    "precio": 1200,
+    "imagen": "https://img.freepik.com/psd-gratis/delicioso-pan-grano-entero-aislado-sobre-fondo-transparente_191095-11689.jpg",
+    "cantidad_stock": 100
+    },
+    {
+    
+    "nombre_producto": "Pan lactal x 500gr",
+    "descripcion_corta": "Suave y esponjoso pan lactal.",
+    "descripcion_larga": "Disfruta de la suavidad y esponjosidad del pan lactal, ideal para tus sándwiches y desayunos.",
+    "precio": 1400,
+    "imagen": "https://img.freepik.com/psd-gratis/pan-rapido-aislado-sobre-fondo-transparente_191095-34631.jpg",
+    "cantidad_stock": 100
+    },
+    {
+    
+    "nombre_producto": "Lemon Pie",
+    "descripcion_corta": "Refrescante lemon pie.",
+    "descripcion_larga": "Delicioso lemon pie con una base crujiente y un relleno cremoso de limón, coronado con un suave merengue.",
+    "precio": 2200,
+    "imagen": "https://img.freepik.com/psd-gratis/torta-merengue-limon-aislada-sobre-fondo-transparente_191095-39884.jpg",
+    "cantidad_stock": 100
+    },
+    {
+    
+    "nombre_producto": "Torta Crema Chocolate",
+    "descripcion_corta": "Torta de crema y chocolate.",
+    "descripcion_larga": "Exquisita torta con capas de crema y chocolate, perfecta para los amantes del chocolate y las celebraciones especiales.",
+    "precio": 2200,
+    "imagen": "https://img.freepik.com/psd-gratis/kuchen-aislado-sobre-fondo-transparente_191095-40179.jpg",
+    "cantidad_stock": 100
+    },
+    {
+    
+    "nombre_producto": "Pastafrola",
+    "descripcion_corta": "Tradicional pastafrola.",
+    "descripcion_larga": "Saborea la tradicional pastafrola, con su base crujiente y relleno de dulce de membrillo, ideal para cualquier ocasión.",
+    "precio": 1800,
+    "imagen": "https://img.freepik.com/psd-gratis/torta-aislada-sobre-fondo-transparente_191095-42440.jpg",
+    "cantidad_stock": 100
+    },
+    {
+    
+    "nombre_producto": "Torta de Frambuesa",
+    "descripcion_corta": "Torta de frambuesas frescas.",
+    "descripcion_larga": "Deliciosa torta de frambuesas, con un suave bizcocho y relleno de frambuesas frescas, perfecta para cualquier evento.",
+    "precio": 2500,
+    "imagen": "https://img.freepik.com/psd-gratis/pastel-aislado-sobre-fondo-transparente_191095-32540.jpg",
+    "cantidad_stock": 100
+    },
+    {
+    
+    "nombre_producto": "Pepitas",
+    "descripcion_corta": "Galletitas con chocolate.",
+    "descripcion_Larga": "Deliciosas galletitas con pepas de chocolate, crujientes por fuera y suaves por dentro, ideales para acompañar tu café.",
+    "precio": 1200,
+    "imagen": "https://img.freepik.com/psd-gratis/hornear-deliciosas-galletas-chocolate-aisladas-sobre-fondo-transparente_191095-16880.jpg",
+    "cantidad_stock": 100
+    },
+    {
+    
+    "nombre_producto": "Macarrons",
+    "descripcion_corta": "Elegantes macarons franceses.",
+    "descripcion_larga": "Delicados macarons franceses, disponibles en una variedad de sabores y colores, perfectos para cualquier ocasión especial.",
+    "precio": 1000,
+    "imagen": "https://img.freepik.com/psd-gratis/macarron-aislado-sobre-fondo-transparente_191095-42329.jpg",
+    "cantidad_stock": 100
+    },
+    {
+    
+    "nombre_producto": "Alfajor cebra",
+    "descripcion_corta": "Alfajor cebra de chocolate.",
+    "descripcion_larga": "Irresistible alfajor cebra, con capas de chocolate y dulce de leche, cubierto con glaseado de chocolate blanco y negro.",
+    "precio": 1400,
+    "imagen": "https://img.freepik.com/psd-gratis/pasteles-cebra-aislados-sobre-fondo-transparente_191095-32126.jpg",
+    "cantidad_stock": 100
+    },
+    {
+    
+    "nombre_producto": "Torta Limon",
+    "descripcion_corta": "Refrescante torta de limón.",
+    "descripcion_larga": "Disfruta de esta fresca torta de limón, con un bizcocho esponjoso y un toque cítrico perfecto para el verano.",
+    "precio": 2200,
+    "imagen": "https://img.freepik.com/psd-gratis/delicioso-pastel-crema-lima-clave-aislado-fondo-transparente_191095-11696.jpg",
+    "cantidad_stock": 100
+    },
+    {
+    
+    "nombre_producto": "Torta Chocolate",
+    "descripcion_corta": "Intensa torta de chocolate.",
+    "descripcion_larga": "Exquisita torta de chocolate, con varias capas de bizcocho y crema de chocolate, ideal para los amantes del cacao.",
+    "precio": 2200,
+    "imagen": "https://img.freepik.com/psd-gratis/pastel-vertido-chocolate-decorado-diferentes-galletas-fondo-transparente_84443-1738.jpg",
+    "cantidad_stock": 100
+    },
+    {
+    
+    "nombre_producto": "Torta Naranja",
+    "descripcion_corta": "Aromática torta de naranja.",
+    "descripcion_larga": "Deliciosa torta de naranja, con un bizcocho húmedo y un toque de cítrico, perfecta para acompañar tu té o café.",
+    "precio": 2200,
+    "imagen": "https://img.freepik.com/psd-gratis/pasteles-jaffa-tipo-galleta-o-galleta-aislada-sobre-fondo-transparente_191095-35054.jpg",
+    "cantidad_stock": 100
+    }
+    
+    ]

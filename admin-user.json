@@ -1,0 +1,6 @@
+{
+    "name": "admin",
+    "email": "admin@panaderiapepito.com",
+    "password": "AdminPassword*",
+    "userType": "admin"
+}
